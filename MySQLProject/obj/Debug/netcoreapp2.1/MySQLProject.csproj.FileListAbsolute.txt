@@ -1,0 +1,14 @@
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.csprojAssemblyReference.cache
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.csproj.CoreCompileInputs.cache
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.RazorAssemblyInfo.cache
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.RazorAssemblyInfo.cs
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.AssemblyInfoInputs.cache
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.AssemblyInfo.cs
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/bin/Debug/netcoreapp2.1/MySQLProject.deps.json
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/bin/Debug/netcoreapp2.1/MySQLProject.runtimeconfig.json
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/bin/Debug/netcoreapp2.1/MySQLProject.runtimeconfig.dev.json
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/bin/Debug/netcoreapp2.1/MySQLProject.dll
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/bin/Debug/netcoreapp2.1/MySQLProject.pdb
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.RazorTargetAssemblyInfo.cache
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.dll
+/Users/brunoalves/Documents/MySQLProject/MySQLProject/MySQLProject/obj/Debug/netcoreapp2.1/MySQLProject.pdb
